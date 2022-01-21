@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-My name is Juan Manuel, I'm from Spain, and this is my Web3 Github.
+My name is Juan Manuel, I'm from Spain, and this is my Github.
 
 I started programming at a very young age through videogames and studied for [Higher Technician in Web Development](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)
 
