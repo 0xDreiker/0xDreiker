@@ -2,7 +2,7 @@
 
 My name is Juan Manuel, I'm from Spain, and this is my Github.
 
-I started programming at a very young age through videogames and studied for [Higher Technician in Web Development](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)
+I started programming through videogames and studied for [Higher Technician in Web Development](https://www.todofp.es/dam/jcr:7c3d42db-83bf-4abb-9d81-cd4f41fe1a1a/n-tsdesarrolloaplicacionesweben-pdf.pdf)
 
 - 🎮 At 15 years I became a staff member (game master) of a successful World of Warcraft server through passion & technical skill.
 - 🛠 I'm one of the developers of [Blasphemous](https://www.kickstarter.com/projects/828401966/blasphemous-dark-and-brutal-2d-non-linear-platform) since the kickstarter campaign worth $333.246 with pre-sales only. [Blasphemous](https://store.steampowered.com/app/774361/Blasphemous/) is the most exigent project I've prototyped and developed from the ground up using Unity Engine.
